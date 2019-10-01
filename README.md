@@ -2,7 +2,8 @@
 
 A fork of [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV), with
 features that only make sense in that particular repo (like Github
-actions) eliminated.
+actions) eliminated. Click on "Use this template" to create your own
+repo out of this one.
 
 VVV is a local developer environment, mainly aimed at [WordPress](https://wordpress.org) developers. It uses [Vagrant](https://www.vagrantup.com) and VirtualBox, and can be used to build sites and contribute to WordPress.
 
